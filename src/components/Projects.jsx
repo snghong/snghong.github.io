@@ -32,9 +32,11 @@ const Projects = (props) => {
       .catch((err) => err);
   }, []);
   const numberOfItems = showMore && data ? data.length : 6;
+  const doShowMore = data ? data.length > 6 : false;
   return (
     <>
       <Header title={header} />
+      <p>Here's what I've been working on lately...</p> 
       {data
         ? (
           <div className="section-content-container">
@@ -48,7 +50,7 @@ const Projects = (props) => {
               </Row>
 
               {!showMore
-                && (
+                && doShowMore &&(
                 <Button
                   style={styles.showMoreStyle}
                   variant={theme.bsSecondaryVariant}

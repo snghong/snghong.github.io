@@ -1,149 +1,99 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/assets/yumi.jpeg",
+            "title": "Multimodal AI Webtoon Generator",
+            "bodyText": "I've been working on creating an infinite-scroll real-time multimodal webtoon generator. It generates text, images and sound as you scroll along~ \n Enjoy a meme while we wait...",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/snghong/webtoon"
+                },
+                {
+                    "text": "Design Doc",
+                    "href": "https://docs.google.com/document/d/1MplfSnmNXhZZkV8tL8orX0uP6eUbevGm_luDP45rl4A/edit?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "Python", "Django", "GPT-4", "DALL-E", "SQLite"
+            ]
+        },
+        {
+            "image" : "images/assets/TerraBot8.jpg",
+            "title": "Autonomous Hydroponics Greenhouse System",
+            "bodyText": "From Aug - Dec 2023, my team and I worked on a Raspberry Pi hardware, ROS2 interface and autonomous agent software to monitor and grow ~50 lettuce and radishes. We ate them.",
+            "links": [
+            ],
+            "tags" : [
+                "Python", "PyTorch", "ROS2", "Raspberry Pi"
+            ]
+        },
+        {
+            "image" : "images/assets/detection.png",
+            "title": "Litter Detection Heatmap",
+            "bodyText": "Winner of the Bloomberg Sustainability Prize, HackCMU 2021. My team fine-tuned Detectron2's region-based convolutional neural network model for litter (86% acc) and analyzed bus camera footage to visualize Pittsburgh's litter density on a heatmap (Google Maps)",
+            "links": [
+                {
+                    "text": "Video Demo",
+                    "href": "https://www.youtube.com/watch?v=ZlSU-P4eTWo"
+                },
+                {
+                    "text": "DevPost Summary",
+                    "href": "https://devpost.com/software/ai-trash-detection-heatmap"
+                }
+            ],
+            "tags" : [
+                "Python", "Detectron2", "Google Maps"
+            ]
+        },
+        {
+            "image" : "images/assets/HomeboundSS1.PNG",
+            "title": "Homebound",
+            "bodyText": "Navigate this 3D Intergalactic Space Shooter to find your way home! Battle hundreds of enemy spacecraft in a beautifully-rendered universe.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/snghong/homebound3D"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://red-bean.itch.io/homebound"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "Unity 3D", "C#"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/assets/ASL.jpeg",
+            "title": "Sign Language to Speech translator",
+            "bodyText": "Winner of the Prize for Social Good, Hack112 2021. My team and I trained a deep learning model for webcam translation of American Sign Language.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/snghong/ASLtoSpeech"
+                }
+            ],
+            "tags" : [
+                "Tensorflow", "OpenCV", "Google Text-to-Speech"
+            ]
+        },
+        {
+            "image" : "images/assets/project sushi 1.png",
+            "title": "Project Sushi",
+            "bodyText": "You control a tiny human with a large craving for sushi! Help him navigate various perils including the conveyor belt, onerous onigiri, monstrous maki, and even chopsticks from above whose owners think that he's a food item as well!",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/snghong/project-sushi"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://red-bean.itch.io/project-sushi"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
-            ]
-        },
-        {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "Unity 2D", "C#"
             ]
         }
     ]

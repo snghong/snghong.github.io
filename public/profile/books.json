@@ -1,0 +1,58 @@
+{
+    "books" : [
+        {
+            "image" : "images/books/principles.png",
+            "title": "Principles for dealing with the Changing World Order",
+            "bodyText": "Often hear that history repeats itself? A macro investor applies that principle to financial and power cycles in the world. \n\n I found this cyclical approach humbling, systematic and optimistic.",
+            "links": [],
+            "tags" : [
+                "History", "Finance"
+            ]
+        },
+        {
+            "image" : "images/books/range.jpeg",
+            "title": "Range: why generalists triumph in a specialized world",
+            "bodyText": "Explains the exponential opportunity cost of trying to find a niche - and compares it the more humbling but also more liberating pursuit of generalism. \n\n I found this quite instructive in my academic and career pursuits.",
+            "links": [],
+            "tags" : [
+                "Sociology"
+            ]
+        },
+        {
+            "image" : "images/books/povertybyamerica.png",
+            "title": "Poverty by America",
+            "bodyText": "Critical review of the american economic system, its flaws and intentional poverty. \n\n A scathing and very well-delivered social contribution.",
+            "links": [],
+            "tags" : [
+                "Sociology", "Economics"
+            ]
+        },
+        {
+            "image" : "images/books/lies.jpeg",
+            "title": "Lies my teacher told me",
+            "bodyText": "Revisionist history of America and criticism of state-sponsored historiography. \n\n Very powerful and timely reminder of the responsibility and potential of history in shaping our lives.",
+            "links": [],
+            "tags" : [
+                "History", "Politics"
+            ]
+        },
+        {
+            "image" : "images/books/thingsfallapart.jpeg",
+            "title": "Things Fall Apart",
+            "bodyText": "Missionaries bring upheaval to an African tribe - a masterpiece of Nigerian literature. \n\n A very haunting portrayal of colonialism.",
+            "links": [],
+            "tags" : [
+                "Fiction", "Colonialism"
+            ]
+        },
+        {
+            "image" : "images/books/lessonsinchemistry.jpeg",
+            "title": "Lessons in Chemistry",
+            "bodyText": "Extremely entertaining novel about gender parity in STEM recommended by my friend's grandmother!",
+            "links": [],
+            "tags" : [
+                "Fiction", "Feminist"
+            ]
+        }
+    ]
+}

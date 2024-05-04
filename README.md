@@ -541,9 +541,8 @@ Go to `public/index.html`. Change *title* and *logo* if you want to customize it
 
 ## Deployment 📦
 
-Once you finish your setup. You need to put your website online!
-
-I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
+yarn deploy
+yarn run deploy
 
 ## Notable Portfolios made using this template
 

@@ -62,7 +62,7 @@
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
 }
 
@@ -71,8 +71,8 @@
 }
 
 .Typewriter__wrapper {
-  font-size: xx-large;
-  font-weight: bold;
+  font-size: calc(1.325rem + .9vw);
+  font-weight: 500;
 }
 
 .Typewriter__cursor {

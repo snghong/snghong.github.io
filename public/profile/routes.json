@@ -23,7 +23,17 @@
         {
             "component": "Projects",
             "path": "/projects",
-            "headerTitle": "Projects"
+            "headerTitle": "a Code Monkey's playground"
+        },
+        {
+            "component": "Books",
+            "path": "/books",
+            "headerTitle": "a Book Worm's adventures "
+        },
+        {
+            "component": "Food",
+            "path": "/food",
+            "headerTitle": "an aspiring Wok Wizard's diary"
         }
     ]
 }

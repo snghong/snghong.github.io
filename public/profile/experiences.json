@@ -1,33 +1,65 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Teaching Assistant",
+            "subtitle": "Carnegie Mellon University School of Computer Science",
+            "workType": "Part-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Led recitations on data structures, OOP, graphics in Python",
+                "Organized puzzlehunts, hackthons with HRT with 1K students as Events Lead"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "01/2022 - 12/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Teaching Assistant",
+            "subtitle": "Carnegie Mellon University School of Computer Science",
+            "workType": "Part-time",
+            "workDescription": [
+                "Led recitations on data structures, OOP, graphics in Python",
+                "Organized puzzlehunts, hackathons with HRT with 1K students as Events Lead"
+            ],
+            "dateText": "01/2022 - 12/2023"
+        },
+        {
+            "title": "Backend Systems Infrastructure Engineer",
+            "subtitle": "LinkedIn",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Developed Azure cloud graph query proxy in Golang, Java for 30ms latency at 2K QPS for Microsoft Fabric",
+                "Designed gRPC microservice with Redis caching, Kubernetes autoscaling, CosmosDB fault tolerance and recovery",
+                "Raised throughput by 10x for federated and asynchronous graph queries in Apache Spark, such as PageRank"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "05/2023 - 08/2023"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Teaching Assistant",
+            "subtitle": "Carnegie Mellon University School of Computer Science",
+            "workType": "Part-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Led recitations on data structures, OOP, graphics in Python",
+                "Organized puzzlehunts, hackathons with HRT with 1K students as Events Lead"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "01/2022 - 12/2023"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "Novocall",
+            "workType": "Internship",
+            "workDescription": [
+                "Integrated messaging API for CRM tool on Ruby on Rails, React, PostgreSQL app, increasing profits by 10%",
+                "Built frontend UI with React, backend APIs with jQuery, Axios, PostgreSQL and end-to-end tested with Rspec"
+            ],
+            "dateText": "05/2021 - 08/2021"
+        },
+        {
+            "title": "Full-Stack Engineer",
+            "subtitle": "Novena E-Commerce",
+            "workType": "Internship",
+            "workDescription": [
+                "Created and scaled e-commerce engine with Next.js, Tailwind frontend, Serverless backend spurring sales by 15%",
+                "Drove responsive web design, mobile optimization, server-side rendering overhauls, speeding up page loads by 40%"
+            ],
+            "dateText": "1/2020 - 04/2021"
         }
     ]
 }
