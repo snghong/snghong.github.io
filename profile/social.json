@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/sng-hong"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/snghong"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:sng_hong@outlook.com"
+        }
+    ]
+}

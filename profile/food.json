@@ -1,0 +1,62 @@
+{
+    "food" : [
+        {
+            "image" : "images/food/char siu.jpg",
+            "title": "叉烧 / Char Siu (Hong Kong style barbequed pork)",
+            "bodyText": "Oven-grilled marinated pork belly known for its red glaze",
+            "links": [],
+            "tags" : [
+                "Cantonese", "Barbeque"
+            ]
+        },
+
+        {
+            "image" : "images/food/jjigae.jpg",
+            "title": "순두부찌개 / Soft tofu stew",
+            "bodyText": "Soft tofu, spring onions and shrimp in a seafood or kimchi stew",
+            "links": [],
+            "tags" : [
+                "Korean", "Stew"
+            ]
+        },
+
+        {
+            "image" : "images/food/sweet and sour pork ribs.jpg",
+            "title": "京都排骨/ Peking Ribs",
+            "bodyText": "Pork Short ribs marinated, fried and tossed in sweet and sour sauce",
+            "links": [],
+            "tags" : [
+                "Chinese", "Wok"
+            ]
+        },
+
+        {
+            "image" : "images/food/tonkatsu.jpg",
+            "title": "トンカツ / Tonkatsu (pork cutlet)",
+            "bodyText": "Breaded pork cutlet over mirin-basked eggs and onions",
+            "links": [],
+            "tags" : [
+                "Japanese", "Pan-fry"
+            ]
+        },
+
+        {
+            "image" : "images/food/curry puffs.jpg",
+            "title": "Curry Puffs",
+            "bodyText": "Crispy pastry with curry chicken filling popular in Southeast Asia",
+            "links": [],
+            "tags" : [
+                "Singapore", "Pastry"
+            ]
+        },
+        {
+            "image" : "images/food/teochew steamed fish.jpg",
+            "title": "Teochew steamed fish",
+            "bodyText": "Fresh grouper steamed with ginger and cooking wine",
+            "links": [],
+            "tags" : [
+                "Teochew", "Steamed"
+            ]
+        }
+    ]
+}

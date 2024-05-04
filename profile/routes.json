@@ -1,0 +1,39 @@
+{
+    "sections": [
+        {
+            "component": "About",
+            "path": "/about",
+            "headerTitle": "About"
+        },
+        {
+            "component": "Skills",
+            "path": "/skills",
+            "headerTitle": "Skills"
+        },
+        {
+            "component": "Education",
+            "path": "/education",
+            "headerTitle": "Education"
+        },
+        {
+            "component": "Experience",
+            "path": "/experience",
+            "headerTitle": "Experience"
+        },
+        {
+            "component": "Projects",
+            "path": "/projects",
+            "headerTitle": "a Code Monkey's playground"
+        },
+        {
+            "component": "Books",
+            "path": "/books",
+            "headerTitle": "a Book Worm's adventures "
+        },
+        {
+            "component": "Food",
+            "path": "/food",
+            "headerTitle": "an aspiring Wok Wizard's diary"
+        }
+    ]
+}

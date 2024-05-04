@@ -1,0 +1,35 @@
+{
+    "logo" : {
+        "source": "images/assets/monkey.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Books",
+            "href": "/books"
+        },
+        {
+            "title": "Food",
+            "href": "/food"
+        },
+        {
+            "title": "Resume",
+            "href": "../images/assets/resume.pdf",
+            "type": "link"
+        }
+    ]
+
+}

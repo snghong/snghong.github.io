@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "Aug 2021 - Dec 2024",
+            "cardTitle": "Bachelor of Science, Computer Science with an additional major in Logic",
+            "cardSubtitle":"Carnegie Mellon University, Pittsburgh, PA",
+            "cardDetailedText": "GPA: 3.8/4.0",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+    ]
+}
