@@ -1,6 +1,39 @@
 {
     "projects" : [
         {
+            "image" : "images/assets/ML-Autoscaling.png",
+            "title": "Machine Learning-based Kubernetes Autoscaler",
+            "bodyText": "My team and I built a predictive autoscaler that is 20% more efficient than Kubernetes' Horizontal Pod Autoscaler in allocating resources in the cloud",
+            "links": [
+                {
+                    "text": "Simple and Explainable ML Predictive Autoscaling",
+                    "href": "https://drive.google.com/file/d/1zyswIQ772JVhV79tB2-1fmZfjGEsSSVv/view?usp=drive_link"
+                }
+                
+            ],
+            "tags" : [
+                "Python", "Kubernetes", "Transformers", "Linear Regression"
+            ]
+        },
+        {
+            "image" : "images/assets/LLAB.jpeg",
+            "title": "Computational Historical Linguistics",
+            "bodyText": "As a research assistant for CMU's L-Lab, I contributed to two papers for sound law inference",
+            "links": [
+                {
+                    "text": "Further LLM-based Code Generation for Sound Law Induction",
+                    "href": "https://openreview.net/forum?id=9C6Vnbxu2y"
+                },
+                {
+                    "text": "Sound Law Induction for Low-Resource Languages",
+                    "href": "https://arxiv.org/abs/2406.12725"
+                }
+            ],
+            "tags" : [
+                "Phonology", "Code Generation", "Programming by Example","Synthetic Data"
+            ]
+        },
+        {
             "image" : "images/assets/yumi.jpeg",
             "title": "Multimodal AI Webtoon Generator",
             "bodyText": "I've been working on creating an infinite-scroll real-time multimodal webtoon generator. It generates text, images and sound as you scroll along~ \n Enjoy a meme while we wait...",
@@ -29,24 +62,6 @@
             ]
         },
         {
-            "image" : "images/assets/detection.png",
-            "title": "Litter Detection Heatmap",
-            "bodyText": "Winner of the Bloomberg Sustainability Prize, HackCMU 2021. My team fine-tuned Detectron2's region-based convolutional neural network model for litter (86% acc) and analyzed bus camera footage to visualize Pittsburgh's litter density on a heatmap (Google Maps)",
-            "links": [
-                {
-                    "text": "Video Demo",
-                    "href": "https://www.youtube.com/watch?v=ZlSU-P4eTWo"
-                },
-                {
-                    "text": "DevPost Summary",
-                    "href": "https://devpost.com/software/ai-trash-detection-heatmap"
-                }
-            ],
-            "tags" : [
-                "Python", "Detectron2", "Google Maps"
-            ]
-        },
-        {
             "image" : "images/assets/HomeboundSS1.PNG",
             "title": "Homebound",
             "bodyText": "Navigate this 3D Intergalactic Space Shooter to find your way home! Battle hundreds of enemy spacecraft in a beautifully-rendered universe.",
@@ -56,7 +71,7 @@
                     "href": "https://github.com/snghong/homebound3D"
                 },
                 {
-                    "text": "Live",
+                    "text": "Play",
                     "href": "https://red-bean.itch.io/homebound"
                 }
             ],
@@ -64,20 +79,7 @@
                 "Unity 3D", "C#"
             ]
         },
-        {
-            "image" : "images/assets/ASL.jpeg",
-            "title": "Sign Language to Speech translator",
-            "bodyText": "Winner of the Prize for Social Good, Hack112 2021. My team and I trained a deep learning model for webcam translation of American Sign Language.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/snghong/ASLtoSpeech"
-                }
-            ],
-            "tags" : [
-                "Tensorflow", "OpenCV", "Google Text-to-Speech"
-            ]
-        },
+        
         {
             "image" : "images/assets/project sushi 1.png",
             "title": "Project Sushi",
@@ -88,7 +90,7 @@
                     "href": "https://github.com/snghong/project-sushi"
                 },
                 {
-                    "text": "Live",
+                    "text": "Play",
                     "href": "https://red-bean.itch.io/project-sushi"
                 }
             ],

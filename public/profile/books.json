@@ -1,9 +1,46 @@
 {
     "books" : [
         {
+            "image" : "images/books/whynationsfail.jpeg",
+            "title": "Why Nations Fail",
+            "bodyText": "Analysis of the political and economic infrastructure needed for prosperity",
+            "links": [],
+            "tags" : [
+                "Economics","Politics", "History"
+            ]
+        }
+        ,
+        {
+            "image" : "images/books/caste.jpeg",
+            "title": "Caste",
+            "bodyText": "Cross-cultural analysis of systemic discrimination",
+            "links": [],
+            "tags" : [
+                "Racism", "Sociology"
+            ]
+        },
+        {
+            "image" : "images/books/hcw.png",
+            "title": "Has China Won?",
+            "bodyText": "Analysis of US-China strategy",
+            "links": [],
+            "tags" : [
+                "Diplomacy", "Geopolitics"
+            ]
+        },
+        {
+            "image" : "images/books/wrtw.png",
+            "title": "Who Rules The World",
+            "bodyText": "Analysis of global soft power",
+            "links": [],
+            "tags" : [
+                "Geopolitics", "History"
+            ]
+        },
+        {
             "image" : "images/books/principles.png",
             "title": "Principles for dealing with the Changing World Order",
-            "bodyText": "Often hear that history repeats itself? A macro investor applies that principle to financial and power cycles in the world. \n\n I found this cyclical approach humbling, systematic and optimistic.",
+            "bodyText": "Analysis of financial and power cycles in the world",
             "links": [],
             "tags" : [
                 "History", "Finance"
@@ -12,7 +49,7 @@
         {
             "image" : "images/books/range.jpeg",
             "title": "Range: why generalists triumph in a specialized world",
-            "bodyText": "Explains the exponential opportunity cost of trying to find a niche - and compares it the more humbling but also more liberating pursuit of generalism. \n\n I found this quite instructive in my academic and career pursuits.",
+            "bodyText": "Compares opportunity cost of finding a niche vs broad skills",
             "links": [],
             "tags" : [
                 "Sociology"
@@ -21,7 +58,7 @@
         {
             "image" : "images/books/povertybyamerica.png",
             "title": "Poverty by America",
-            "bodyText": "Critical review of the american economic system, its flaws and intentional poverty. \n\n A scathing and very well-delivered social contribution.",
+            "bodyText": "Analysis of entrenched systemic poverty in America",
             "links": [],
             "tags" : [
                 "Sociology", "Economics"
@@ -30,7 +67,7 @@
         {
             "image" : "images/books/lies.jpeg",
             "title": "Lies my teacher told me",
-            "bodyText": "Revisionist history of America and criticism of state-sponsored historiography. \n\n Very powerful and timely reminder of the responsibility and potential of history in shaping our lives.",
+            "bodyText": "Revisionist history of America and criticism of state-sponsored historiography",
             "links": [],
             "tags" : [
                 "History", "Politics"
@@ -39,19 +76,10 @@
         {
             "image" : "images/books/thingsfallapart.jpeg",
             "title": "Things Fall Apart",
-            "bodyText": "Missionaries bring upheaval to an African tribe - a masterpiece of Nigerian literature. \n\n A very haunting portrayal of colonialism.",
+            "bodyText": "Haunting portrayal of colonialism in Nigeria",
             "links": [],
             "tags" : [
                 "Fiction", "Colonialism"
-            ]
-        },
-        {
-            "image" : "images/books/lessonsinchemistry.jpeg",
-            "title": "Lessons in Chemistry",
-            "bodyText": "Extremely entertaining novel about gender parity in STEM recommended by my friend's grandmother!",
-            "links": [],
-            "tags" : [
-                "Fiction", "Feminist"
             ]
         }
     ]

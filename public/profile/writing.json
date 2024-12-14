@@ -1,0 +1,90 @@
+{
+    "writing" : [
+        {
+            "image": "images/writing/wok.png",
+            "title": "Lessons from the Wok",
+            "bodyText": "There are no measuring spoons in my house.",
+            "links": [
+                {
+                    "text": "Read",
+                    "href": "https://medium.com/@sng.hong/lessons-from-the-wok-47d666c4e98f"
+                }
+                ],
+            "tags" : [
+                "Cooking", "Family"
+            ]
+        },
+        {
+            "image": "images/writing/wtw.jpeg",
+            "title": "Words Travel Worlds",
+            "bodyText": "Mingalaba: it's a blessing to meet you.",
+            "links": [
+                {
+                    "text": "Read",
+                    "href": "https://medium.com/@sng.hong/words-travel-worlds-18c5045cf850"
+                }
+                ],
+            "tags" : [
+                "Culture", "Languages"
+            ]
+        },
+        {
+            "image": "images/writing/stars.jpeg",
+            "title": "How to Not Chase Your Dreams",
+            "bodyText": "Happiness is not something pursued, but something practiced.",
+            "links": [
+                {
+                    "text": "Read",
+                    "href": "https://medium.com/@sng.hong/how-to-not-chase-your-dreams-4ef4edb957d3"
+                }
+                ],
+            "tags" : [
+                "Aspirational", "Poetry"
+            ]
+        },
+        {
+            "image": "images/writing/tea.jpeg",
+            "title": "His Cup of Tea",
+            "bodyText": "A familiar aroma wafts across the living room - warm, slightly bitter, but rich and strong.",
+            "links": [
+                {
+                    "text": "Read",
+                    "href": "https://medium.com/@sng.hong/how-to-not-chase-your-dreams-4ef4edb957d3"
+                }
+                ],
+            "tags" : [
+                "Family"
+            ]
+        }, 
+        {
+            "image": "images/writing/history.jpeg",
+            "title": "The Mystery of History",
+            "bodyText": "...and why it matters.",
+            "links": [
+                {
+                    "text": "Read",
+                    "href": "https://medium.com/@sng.hong/the-mystery-of-history-and-why-it-matters-811c4ae74d4b"
+                }
+                ],
+            "tags" : [
+                "History", "Identity"
+            ]
+        },
+        {
+            "image": "images/writing/music.webp",
+            "title": "How can deaf people listen to music?",
+            "bodyText": "...a musician's thought experiment.",
+            "links": [
+                {
+                    "text": "Read",
+                    "href": "https://medium.com/@sng.hong/how-do-deaf-people-listen-to-music-1420bbabe47c"
+                }
+                ],
+            "tags" : [
+                "Neuroscience", "Music"
+            ]
+        }
+        
+        
+    ]
+}
