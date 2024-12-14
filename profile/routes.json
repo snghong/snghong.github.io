@@ -3,22 +3,7 @@
         {
             "component": "About",
             "path": "/about",
-            "headerTitle": "About"
-        },
-        {
-            "component": "Skills",
-            "path": "/skills",
-            "headerTitle": "Skills"
-        },
-        {
-            "component": "Education",
-            "path": "/education",
-            "headerTitle": "Education"
-        },
-        {
-            "component": "Experience",
-            "path": "/experience",
-            "headerTitle": "Experience"
+            "headerTitle": "About Hong"
         },
         {
             "component": "Projects",
@@ -28,12 +13,17 @@
         {
             "component": "Books",
             "path": "/books",
-            "headerTitle": "a Book Worm's adventures "
+            "headerTitle": "a Book Worm's reading list"
         },
         {
             "component": "Food",
             "path": "/food",
-            "headerTitle": "an aspiring Wok Wizard's diary"
+            "headerTitle": "a Wok Wizard's menu"
+        },
+        {
+            "component": "Writing",
+            "path": "/writing",
+            "headerTitle": "a Paper Pusher's diary"
         }
     ]
 }

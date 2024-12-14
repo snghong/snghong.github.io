@@ -26,9 +26,8 @@
             "href": "/food"
         },
         {
-            "title": "Resume",
-            "href": "../images/assets/resume.pdf",
-            "type": "link"
+            "title": "Writing",
+            "href": "/writing"
         }
     ]
 
