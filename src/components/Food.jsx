@@ -36,7 +36,7 @@ const Food = (props) => {
   return (
     <>
       <Header title={header} />
-      <p>Here's what I've been cooking (and eating) lately...</p> 
+      <p>Here&apos;s what I&apos;ve been cooking (and eating) lately...</p>
       {data
         ? (
           <div className="section-content-container">
@@ -50,7 +50,7 @@ const Food = (props) => {
               </Row>
 
               {!showMore
-                && doShowMore &&(
+                && doShowMore && (
                 <Button
                   style={styles.showMoreStyle}
                   variant={theme.bsSecondaryVariant}
@@ -58,7 +58,7 @@ const Food = (props) => {
                 >
                   show more
                 </Button>
-                )}
+              )}
             </Container>
           </div>
         ) : <FallbackSpinner /> }
