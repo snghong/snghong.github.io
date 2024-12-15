@@ -20,21 +20,48 @@
             ]
         },
         {
-            "image" : "images/books/hcw.png",
-            "title": "Has China Won?",
-            "bodyText": "Analysis of US-China strategy",
-            "links": [],
-            "tags" : [
-                "Diplomacy", "Geopolitics"
-            ]
-        },
-        {
             "image" : "images/books/wrtw.png",
             "title": "Who Rules The World",
             "bodyText": "Analysis of global soft power",
             "links": [],
             "tags" : [
                 "Geopolitics", "History"
+            ]
+        },
+        {
+            "image" : "images/books/povertybyamerica.png",
+            "title": "Poverty by America",
+            "bodyText": "Analysis of entrenched systemic poverty",
+            "links": [],
+            "tags" : [
+                "Sociology", "Economics"
+            ]
+        },
+        {
+            "image" : "images/books/lies.jpeg",
+            "title": "Lies my teacher told me",
+            "bodyText": "Revisionist history and criticism of state-sponsored historiography",
+            "links": [],
+            "tags" : [
+                "History", "Politics"
+            ]
+        },
+        {
+            "image" : "images/books/range.jpeg",
+            "title": "Range",
+            "bodyText": "Compares opportunity cost of specializing vs being a generalist",
+            "links": [],
+            "tags" : [
+                "Sociology"
+            ]
+        },
+        {
+            "image" : "images/books/thingsfallapart.jpeg",
+            "title": "Things Fall Apart",
+            "bodyText": "Haunting portrayal of colonialism in Nigeria",
+            "links": [],
+            "tags" : [
+                "Fiction", "Colonialism"
             ]
         },
         {
@@ -46,40 +73,14 @@
                 "History", "Finance"
             ]
         },
+        
         {
-            "image" : "images/books/range.jpeg",
-            "title": "Range: why generalists triumph in a specialized world",
-            "bodyText": "Compares opportunity cost of finding a niche vs broad skills",
+            "image" : "images/books/hcw.png",
+            "title": "Has China Won?",
+            "bodyText": "Analysis of US-China strategy",
             "links": [],
             "tags" : [
-                "Sociology"
-            ]
-        },
-        {
-            "image" : "images/books/povertybyamerica.png",
-            "title": "Poverty by America",
-            "bodyText": "Analysis of entrenched systemic poverty in America",
-            "links": [],
-            "tags" : [
-                "Sociology", "Economics"
-            ]
-        },
-        {
-            "image" : "images/books/lies.jpeg",
-            "title": "Lies my teacher told me",
-            "bodyText": "Revisionist history of America and criticism of state-sponsored historiography",
-            "links": [],
-            "tags" : [
-                "History", "Politics"
-            ]
-        },
-        {
-            "image" : "images/books/thingsfallapart.jpeg",
-            "title": "Things Fall Apart",
-            "bodyText": "Haunting portrayal of colonialism in Nigeria",
-            "links": [],
-            "tags" : [
-                "Fiction", "Colonialism"
+                "Diplomacy", "Geopolitics"
             ]
         }
     ]

@@ -1,1 +1,2 @@
 - Add some kind of index so the individual pages work
+- npm run deploy
