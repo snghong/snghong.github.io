@@ -3,7 +3,7 @@
         {
             "component": "About",
             "path": "/about",
-            "headerTitle": "About Hong"
+            "headerTitle": "Hong Sng (孙竑)"
         },
         {
             "component": "Projects",
